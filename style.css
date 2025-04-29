@@ -1,0 +1,17 @@
+p{
+    background: grey;
+}
+.first{
+    background: red;
+}
+
+h1{
+    color: green;
+    border: 1px solid black;
+    text-align: center;
+    padding: 50px;
+}
+img{
+    width: 50%;
+    height: 80%;
+}
